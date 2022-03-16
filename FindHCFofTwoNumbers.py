@@ -12,4 +12,4 @@ def compute_hcf(x,y):
 num1 = int(input(print('Enter num1: ')))
 num2 = int(input(print('Enter num2: ')))
 print('The H.C.F is', compute_hcf(num1, num2)) 
- 
+  
