@@ -17,5 +17,5 @@ import pyscreenshot
 image = pyscreenshot.grab(bbox(10, 10, 500, 500))
 #To view screenshot
 image.show()
-#To save the screenshot
+#To save the screenshot 
 image.save("simon.png")
