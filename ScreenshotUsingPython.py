@@ -1,4 +1,4 @@
-pip install pyscreenshot
+#pip install pyscreenshot
 
 
 
