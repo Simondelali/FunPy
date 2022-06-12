@@ -14,7 +14,7 @@ while (loop < 10):
     noun3 = input("Choose a noun: ")
 #Displays the story based on the user input 
     print("---------------------------------------------------------------")
-    print("Be kind to your",noun,"- footed",p_noun)
+    print("Be kind to your",noun,"- footed",p_noun)      
     print("For a duck may be somebody's",noun2,",")
     print("Be kind to your", p_noun,"in",place)
     print("Where the weather is alwqays",adjective,".")
