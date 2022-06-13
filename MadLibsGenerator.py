@@ -4,7 +4,7 @@ Mad Libs Generator
 """
 #Loop back to this point once code finishes
 loop = 1
-while (loop < 10):
+while (loop < 10):     
 #All the questionsa that the program ask the user
     noun = input("Choose a noun: ")
     p_noun  = input("Choose a plural noun: ")
@@ -16,7 +16,7 @@ while (loop < 10):
     print("---------------------------------------------------------------")
     print("Be kind to your",noun,"- footed",p_noun)      
     print("For a duck may be somebody's",noun2,",")
-    print("Be kind to your", p_noun,"in",place)
+    print("Be kind to your", p_noun,"in",place)      
     print("Where the weather is alwqays",adjective,".")
     print()
     print("You may think that is this",noun3,",")
