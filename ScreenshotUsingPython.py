@@ -11,7 +11,7 @@ image.save("simon.png")
 
 
 
-#program for partial screenshot
+#program for partial screenshot   
 import pyscreenshot
 #image=pyscreenshot.grab(bbox(x1,x2,y1,y2))
 image = pyscreenshot.grab(bbox(10, 10, 500, 500))
