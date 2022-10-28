@@ -13,7 +13,7 @@ while True:
     
     else:
         #convert string to lower case
-        teststr = teststr.lower() 
+        teststr = teststr.lower()   
 
         newstr = ''
         for x in teststr:
